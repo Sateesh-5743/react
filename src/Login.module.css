@@ -1,0 +1,19 @@
+.login{
+    /* width:480px;
+    height:465px;
+    margin-top: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px 10px 10px 10px; */
+    width: max-content;
+    margin: auto;
+    min-height: 150px;
+    min-width: 20rem;
+    border-radius: 0.6rem;
+    transform: scale(1);
+    box-shadow: rgba(28, 28, 28, 0.15) 0px 1.2rem 7rem;
+    transition: transform 0.25s ease 0s;
+}
+.div1{
+    display: flex;
+    flex-direction: row;
+}
